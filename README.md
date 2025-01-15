@@ -88,7 +88,7 @@ The app features a custom update prompt that notifies users when a new version i
 
 To install and run the project locally, follow these steps:
 
-- Clone the repository: `git clone https://github.com/maciekt07/TodoApp.git`
+- Clone the repository: `git clone https://github.com/saidul-122/TodoApp.git`
 - Navigate to the project directory: `cd TodoApp`
 - Install the dependencies: `npm install`
 - Start the development server: `npm run dev`
